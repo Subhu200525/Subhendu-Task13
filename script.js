@@ -21,7 +21,7 @@ if (c%2===0){
 }
 
 if (d%2===0){
-    console.log("The number"+c+"is Even");
+    console.log("The number"+d+"is Even");
 }else{
-    console.log("The number"+c+"is Odd");
+    console.log("The number"+d+"is Odd");
 }
